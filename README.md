@@ -1,2 +1,2 @@
-# premier-league-performance-analysis
+# Premier-League-Performance-Analysis
 10-season Premier League data analysis using Python and Power BI to evaluate scoring trends, home advantage and team performance.
