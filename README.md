@@ -1,6 +1,3 @@
-# Premier-League-Performance-Analysis
-10-season Premier League data analysis using Python and Power BI to evaluate scoring trends, home advantage and team performance.
-
 # ⚽ Premier League Performance Analysis (2015–2025)
 
 This project analyses **10 seasons of Premier League match data** using Python and Power BI to explore scoring trends home advantage and team performance across the league.
