@@ -131,3 +131,13 @@ It demonstrates the ability to:
 * clean and prepare data
 * perform exploratory analysis
 * build dashboards to communicate insights
+
+# ▶️ How to Run the Project
+
+1. Clone this repository
+
+2. Open the Python notebook in the `Notebooks` folder to view the data preparation and exploratory analysis.
+
+3. Open the Power BI dashboard file in the `Dashboard` folder to explore the visualisations.
+
+The notebook contains the steps used to clean the dataset and create the features used in the final dashboard.
