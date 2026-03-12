@@ -132,6 +132,8 @@ It demonstrates the ability to:
 * perform exploratory analysis
 * build dashboards to communicate insights
 
+---
+
 # ▶️ How to Run the Project
 
 1. Clone this repository
